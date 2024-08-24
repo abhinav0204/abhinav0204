@@ -25,10 +25,6 @@
     <img src="https://datalushq.com/wp-content/uploads/2022/07/icon_2.gif" alt="ETL-architecture" width="530" style="display:block; margin:auto;">
 </div>
 
-
-
-<br>
-<br>
 <br>
 <br>
 
@@ -38,8 +34,6 @@
 - [Supercharging My Data Engineering Career with ProjectPro.io](https://medium.com/@abhinavsuman0204/supercharging-my-data-engineering-career-with-projectpro-io-73da207d8eb9?source=rss-d492fbf1b7ef------2)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
-<br>
 <br>
 <br>
 
