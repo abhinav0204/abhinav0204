@@ -1,6 +1,8 @@
 <h3 align="center">I'm Abhinav, an Expert Data Engineer specializing in ETL, Big Data, and Cloud Solutions! 😎👨‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav0204&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav0204" /> </p>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=abhinav0204&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav0204" />
+</p>
 
 - 🔭 I’m currently working on **Exploring AI-driven data insights with cutting-edge tools! 🤖📊 Excited! 🚀**
 
@@ -18,14 +20,17 @@
 <br>
 
 <div>
-<img src="https://media.licdn.com/dms/image/D5612AQFuWiuEBRAcNw/article-cover_image-shrink_600_2000/0/1694701932900?e=2147483647&v=beta&t=sFRBnSLCQQJN_CiJ2VB7fxyIBdPgpPnZOTE7DGP_zRA" alt="Coding" width="400" align="right">
-<img src="https://datalushq.com/wp-content/uploads/2022/07/icon_2.gif" alt="ETL-architecture" width="400" align="right">
+    <img src="https://media.licdn.com/dms/image/D5612AQFuWiuEBRAcNw/article-cover_image-shrink_600_2000/0/1694701932900?e=2147483647&v=beta&t=sFRBnSLCQQJN_CiJ2VB7fxyIBdPgpPnZOTE7DGP_zRA" alt="Coding" width="400" align="right">
+    <img src="https://datalushq.com/wp-content/uploads/2022/07/icon_2.gif" alt="ETL-architecture" width="400" align="right">
 </div>
 
 <br>
 <br>
+<br>
+<br>
 
 ### Blogs Posts 📝✨
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
