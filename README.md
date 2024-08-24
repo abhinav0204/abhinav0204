@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Cross-cloud data engineering with seamless integration! ☁️🔄📊**
 
-- 📫 How to reach me **LinkedIn 🌐: linkedin.com/in/abhinav-366623147 or email 📧: abhinavsuman0204@gmail.com**
+- 📫 How to reach me **LinkedIn 🌐: [linkedin.com/in/abhinav-366623147](https://www.linkedin.com/in/abhinav-366623147/) or email 📧: abhinavsuman0204@gmail.com**
 
 - ⚡ Fun fact **I transformed complex data challenges into seamless solutions! 🔄🧩✨**
 
