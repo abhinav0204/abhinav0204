@@ -26,6 +26,8 @@
 
 ### Blogs Posts 📝✨
 <!-- BLOG-POST-LIST:START -->
+<br>
+<br>
 <!-- BLOG-POST-LIST:END -->
 
 <br>
