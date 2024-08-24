@@ -22,7 +22,7 @@
 
 <div>
     <img src="https://media.licdn.com/dms/image/D5612AQFuWiuEBRAcNw/article-cover_image-shrink_600_2000/0/1694701932900?e=2147483647&v=beta&t=sFRBnSLCQQJN_CiJ2VB7fxyIBdPgpPnZOTE7DGP_zRA" alt="Coding" width="400" style="display:block; margin:auto;">
-    <img src="https://datalushq.com/wp-content/uploads/2022/07/icon_2.gif" alt="ETL-architecture" width="400" style="display:block; margin:auto;">
+    <img src="https://datalushq.com/wp-content/uploads/2022/07/icon_2.gif" alt="ETL-architecture" width="500" style="display:block; margin:auto;">
 </div>
 
 
