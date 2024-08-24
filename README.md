@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<h3 Blogs Posts 📝✨</h3>
+<h3> Blogs Posts 📝✨</h3>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
