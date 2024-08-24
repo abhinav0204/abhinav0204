@@ -18,7 +18,7 @@
 <img src="https://datalushq.com/wp-content/uploads/2022/07/icon_2.gif" alt="ETL-architecture" width="400" align="right">
 	
 
-### Blogs posts
+### Blogs Posts 📝✨
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
