@@ -4,13 +4,13 @@
     <img src="https://komarev.com/ghpvc/?username=abhinav0204&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav0204" />
 </p>
 
-- 🔭 I’m currently working on **Exploring AI-driven data insights with cutting-edge tools! 🤖📊 Excited! 🚀**
+- 🔭 **Diving into AI-driven data insights with the latest cutting-edge tools! 🚀 Ready to unlock new possibilities! 🤖📊**
 
-- 🌱 I’m currently learning **Exploring Generative AI 🤖, Snowflake ❄️, and dbt 🚀 for innovation!**
+- 🌱 **Exploring Generative AI 🤖, Snowflake ❄️, and dbt 🚀 for innovation!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhinav0204?tab=repositories](https://github.com/abhinav0204?tab=repositories)
+- 👨‍💻 **All of my projects are available at [https://github.com/abhinav0204?tab=repositories](https://github.com/abhinav0204?tab=repositories)**
 
-- 💬 Ask me about **Cross-cloud data engineering with seamless integration! ☁️🔄📊**
+- 💬 **Ask me about Cross-cloud data engineering with seamless integration! ☁️🔄📊**
 
 - 📫 **Feel free to reach out to me on LinkedIn 🌐: [linkedin.com/in/abhinav-366623147](https://www.linkedin.com/in/abhinav-366623147/) or via email 📧: abhinavsuman0204@gmail.com**
 
