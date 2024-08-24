@@ -32,6 +32,7 @@
 <h3> Blogs Posts 📝✨</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharging My Data Engineering Career with ProjectPro.io](https://medium.com/@abhinavsuman0204/supercharging-my-data-engineering-career-with-projectpro-io-73da207d8eb9?source=rss-d492fbf1b7ef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
