@@ -14,8 +14,8 @@
 
 - ⚡ Fun fact **I transformed complex data challenges into seamless solutions! 🔄🧩✨**
 
-<img src="https://www.pinterest.com/pin/126663808259169636/" alt="Coding" width="400" align="right">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.defteam.com%2Fwhat-we-do%2F&psig=AOvVaw3fpYROqe4OF3Za3E0iYGKx&ust=1724590341700000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjr3-bVjYgDFQAAAAAdAAAAABAO" alt="ETL-architecture" width="400" align="right">
+<img src="https://media.licdn.com/dms/image/D5612AQFuWiuEBRAcNw/article-cover_image-shrink_600_2000/0/1694701932900?e=2147483647&v=beta&t=sFRBnSLCQQJN_CiJ2VB7fxyIBdPgpPnZOTE7DGP_zRA" alt="Coding" width="400" align="right">
+<img src="https://www.defteam.com/wordpress/wp-content/themes/defteam/images/services/blocks/BI-Analytics-N.gif" alt="ETL-architecture" width="400" align="right">
 	
 
 ### Blogs posts
