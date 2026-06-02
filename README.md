@@ -35,7 +35,22 @@ abhinav = {
 - 🔭 Building production data pipelines on an **Azure-first** stack.
 - 🌱 Currently going deep on **GenAI / Agentic AI** systems.
 - 🎯 Open to **Senior Data Engineer** roles.
-- 📫 Reach me: **abhinavsuman0204@gmail.com**
+- 📫 Reach me: [abhinavsuman0204@gmail.com](mailto:abhinavsuman0204@gmail.com)
+
+---
+
+<!-- ====================== EXPERIENCE ====================== -->
+## 💼 Experience
+
+<p>
+  <img src="https://img.shields.io/badge/BlackRock-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fractal_Analytics-0A2540?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Publicis_Sapient-E2231A?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tredence-2F3C7E?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Norton_LifeLock_(Gen)-FFC600?style=for-the-badge&logoColor=black"/>
+</p>
+
+**5+ years** delivering data engineering across **Financial Services, Retail/CPG, Aviation,** and **Cybersecurity** — building batch & streaming pipelines, lakehouses, and dimensional models for global enterprises (clients include Loblaw, PepsiCo).
 
 ---
 
@@ -107,24 +122,32 @@ abhinav = {
 
 ---
 
-<!-- ====================== STATS ====================== -->
+<!-- ====================== CURRENTLY WORKING ON ====================== -->
+## 🚀 Currently Working On
+
+> **Now:** [Generative AI Masters](https://github.com/abhinav0204/Generative-Ai-Masters) — building RAG & agentic workflows 🤖
+> <sub>*(edit this line whenever your focus changes)*</sub>
+
+**🔄 Latest activity** (auto-updates every 12 hours):
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<!-- ====================== STATS (reliable widgets only) ====================== -->
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhinav0204&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav0204&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=abhinav0204&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 
-<img src="https://streak-stats.demolab.com?user=abhinav0204&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhinav0204&theme=tokyonight&no-frame=true&column=7&margin-w=8"/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav0204&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav0204&theme=tokyo-night&hide_border=true&area=true" alt="contribution activity graph" />
 
 </div>
 
 ---
 
+<!-- ====================== SNAKE ====================== -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/abhinav0204/abhinav0204/output/snake.svg" alt="snake animation" />
 </div>
