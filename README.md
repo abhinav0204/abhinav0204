@@ -126,7 +126,6 @@ abhinav = {
 ## 🚀 Currently Working On
 
 > **Now:** [Generative AI Masters](https://github.com/abhinav0204/Generative-Ai-Masters) — building RAG & agentic workflows 🤖
-> <sub>*(edit this line whenever your focus changes)*</sub>
 
 **🔄 Latest activity** (auto-updates every 12 hours):
 <!--START_SECTION:activity-->
