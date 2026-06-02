@@ -24,7 +24,7 @@
 ```python
 abhinav = {
     "role"        : "Data Engineer @ BlackRock",
-    "location"    : "India 🇮🇳  ·  open to Global / Remote Opportunities 🌍",
+    "location"    : "India 🇮🇳  ·  Open to Global / Remote Opportunities 🌍",
     "experience"  : "5+ years — Finance, Retail/CPG, Aviation, Cybersecurity",
     "i_build"     : ["Medallion lakehouses", "streaming pipelines", "batch ELT"],
     "learning"    : ["GenAI", "Agentic AI", "LangChain", "RAG", "MCP"],
