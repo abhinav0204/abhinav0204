@@ -34,7 +34,7 @@ abhinav = {
 
 - 🔭 Building production data pipelines on an **Azure-first** stack.
 - 🌱 Currently going deep on **GenAI / Agentic AI** systems.
-- 🎯 Open to **Senior Data Engineer** roles.
+- 🎯 Open to **Senior Data Engineer**, **GenAI Data Engineer** & **GenAI Developer** roles.
 - 📫 Reach me: [abhinavsuman0204@gmail.com](mailto:abhinavsuman0204@gmail.com)
 
 ---
