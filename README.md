@@ -24,7 +24,7 @@
 ```python
 abhinav = {
     "role"        : "Data Engineer (Associate L2) @ BlackRock",
-    "location"    : "India 🇮🇳  ·  open to UAE / remote 🌍",
+    "location"    : "India 🇮🇳  ·  open to Golbal / remote Opportunities 🌍",
     "experience"  : "5+ years — Finance, Retail/CPG, Aviation, Cybersecurity",
     "i_build"     : ["Medallion lakehouses", "streaming pipelines", "batch ELT"],
     "learning"    : ["GenAI", "Agentic AI", "LangChain", "RAG", "MCP"],
@@ -124,6 +124,10 @@ abhinav = {
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhinav0204/abhinav0204/output/snake.svg" alt="snake animation" />
+</div>
 
 <div align="center">
 <i>⭐ Always learning. Let's build something with data. ⭐</i>
